@@ -13,7 +13,7 @@ Passive atmospheric water harvesting improves when **heterogeneous wettability i
 - **Functional cycle identified:** interception/capture → nucleation → droplet growth → coalescence → directional transport → collection → surface renewal → repeat.
 - Surface engineering framed through three passive enhancement strategies: surface/ morphology optimization, substrate cooling, and wettability control.
 ## Biological models studied:
-
+<img width="1206" height="1478" alt="image" src="https://github.com/user-attachments/assets/b3f3aecb-d0ff-42bd-a6a8-9221fd3e9328" />
 Plus supporting sources on Young's equation, Wenzel roughness wetting models, and fog vs. dew vs. sorption collection mechanisms.
 ## Design output
 - Derived **design rules**: spatially patterned wettability + hierarchical geometry, with each region specialized by function.
@@ -25,4 +25,4 @@ This research is intentionally literature-based. No prototype was built and no c
 ## Files
 - Research paper
 - Research Poster Presented at 2026 North Carolina Honors Association (NCHA) Conference. 
-- 
+  
